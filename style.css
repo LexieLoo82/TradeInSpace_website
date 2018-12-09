@@ -50,7 +50,9 @@ html, body{
 .padding {
   padding-bottom: 1rem;
 }
-
+#tweets{
+    margin: 0 auto;
+}
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
